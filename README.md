@@ -29,4 +29,5 @@ Install this plugin via the official Wordpress Plugin registry. -- COMING SOON
 
 # Usage
 
-- COMING SOON -
+This Plugin is _intended for developers only_ and just holds the RNCRypto library making it available as a WordPress plugin.
+Credits go to [RNCryptor](https://github.com/RNCryptor). For issues, examples and usages check the php library's repository on GitHub [https://github.com/RNCryptor/RNCryptor-php](https://github.com/RNCryptor/RNCryptor-php)
