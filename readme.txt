@@ -1,11 +1,10 @@
-=== WP Client Ajax Login ===
+=== WP RNCryptor ===
 Contributors: enricodeleo
 Tags: login,ajax,client
 Requires at least: 3.5
 Tested up to: 4.2
 Stable tag: 0.1.7
 License: MIT
-License URI: https://github.com/enricodeleo/wpClientAjaxLogin/blob/master/LICENSE.md
 
 A simple plugin that allows login to wordpress through the client's browser via AJAX.
 
