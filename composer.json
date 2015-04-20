@@ -1,0 +1,26 @@
+{
+    "name": "enricodeleo/RNCryptor-wp",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "description": "A WordPress plugin holding the RNCryptor-php library.",
+    "homepage": "https://github.com/enricodeleo/RNCryptor-wp",
+    "authors": [
+        {
+            "name": "Enrico Deleo",
+            "homepage": "http://enricodeleo.com"
+        }
+    ],
+    "keywords": [
+        "wordpress",
+        "encrypt",
+        "aes",
+        "rncryptor"
+    ],
+    "support": {
+        "issues": "https://github.com/enricodeleo/RNCryptor-wp/issues"
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "composer/installers": "~1.0"
+    }
+}
