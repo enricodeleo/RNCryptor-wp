@@ -3,7 +3,7 @@ Contributors: enricodeleo
 Tags: login,ajax,client
 Requires at least: 3.5
 Tested up to: 4.2
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 License: MIT
 
 A simple plugin that allows login to wordpress through the client's browser via AJAX.
