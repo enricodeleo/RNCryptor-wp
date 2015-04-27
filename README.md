@@ -25,7 +25,7 @@ to your wp-content/plugins directory.
 
 OR
 
-Install this plugin via the official Wordpress Plugin registry. -- COMING SOON
+Install this plugin via the official Wordpress Plugin registry. https://wordpress.org/plugins/wp-rncryptor/
 
 # Usage
 
