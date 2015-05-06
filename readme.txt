@@ -6,7 +6,7 @@ Tested up to: 4.2
 Stable tag: 0.1.1
 License: MIT
 
-A simple plugin that allows login to wordpress through the client's browser via AJAX.
+A WordPress plugin holding the RNCryptor-php library. Encrypt/decrypt with AES. 
 
 == Description ==
 
