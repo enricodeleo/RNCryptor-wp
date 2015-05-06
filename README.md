@@ -8,13 +8,13 @@ A WordPress plugin holding the RNCryptor-php library.
 
 If you're using Composer to manage your codebase add this plugin to your dependencies running:
 
-`composer require enricodeleo/RNCryptor-wp 0.1.0`
+`composer require enricodeleo/RNCryptor-wp 0.1.2`
 
 Or manually add it to your composer.json:
 
 ```JSON
 "require": {
-  "enricodeleo/RNCryptor-wp": "0.1.0"
+  "enricodeleo/RNCryptor-wp": "0.1.2"
 }
 ```
 
