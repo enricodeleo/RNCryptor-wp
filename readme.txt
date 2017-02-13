@@ -2,11 +2,11 @@
 Contributors: enricodeleo
 Tags: login,ajax,client
 Requires at least: 3.5
-Tested up to: 4.2
-Stable tag: 0.1.2
+Tested up to: 4.7.2
+Stable tag: 0.2.0
 License: MIT
 
-A WordPress plugin holding the RNCryptor-php library. Encrypt/decrypt with AES. 
+A WordPress plugin holding the RNCryptor-php library. Encrypt/decrypt with AES.
 
 == Description ==
 
